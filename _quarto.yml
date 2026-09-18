@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Spain — Fragments"
+  
+  navbar:
+    false
+
+
+
+title: "Espagne — Fragments"
+author: "Charles Klein"
+
+description: >
+  Publication photographique de Charles Klein. Un zine de photographies qui
+  présente quelques fragments d'Espagne.
+
+keywords:
+  - photographie d'auteur
+  - Charles Klein
+  - Spain
+  - Espagne
+  - Fragments
+  - photographie contemporaine couleure
+
+canonical: "https://charleskleinpublications.github.io/spain/"
+
+
+format:
+
+  html:
+    theme: none
+    css:
+      - css/monolithe.css
+
+    include-after-body: 
+     text: |
+      <script src="js/navigation.js"></script>
+
+    toc: false
+    page-layout: full
