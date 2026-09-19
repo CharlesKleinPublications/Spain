@@ -1,5 +1,5 @@
 ---
-title: "Odyssée ou Le Monolithe"
+title: "Spain, fragments"
 format:
   html:
     toc: false
@@ -15,8 +15,8 @@ format:
 
 ::: {.cover-page .page}
 ::: {.cover-content}
-## Odyssée
-### Le Monolithe
+## Spain
+### Fragments
 :::
 ::: {.language-choice}
 [FR]{#lang-fr-button}
@@ -32,23 +32,18 @@ format:
 ::: {.text-page .page}
 ::: {.lang-fr}
 ::: {.text-content}
-## Le Monolithe
+## Espagne
 
-C'est un récit photographique en 5 actes : le socle notre terre ; l’eau source de vie ;
-l’arbre, symbole de vie ; pensées et croyances de l'homme conscient ; les monolithes.
-Clin d'œil évident au film de Kubrick ; ceux qui veulent poursuivre peuvent construire leur propre interprétation.
-Oui, les monolithes, ces irréels d’aujourd’hui que j’ai voulus témoins de notre monde anthropique malmené et qui ouvrent des portes, je l’espère, sur vos propres possibles …
+Fragments, carnet.
 
 :::
 :::
 
 ::: {.lang-en}
 ::: {.text-content}
-## The Monolith
+## Spain
 
-It remains there, silent, like a presence whose origin has been erased by time.
-Matter tells nothing. It preserves. Traces, cracks and surfaces carry a memory that does not ask to be deciphered.
-Before these motionless forms, the gaze slowly wanders. What seemed to be a stone becomes architecture, then landscape, then a fragment of memory.
+Travel notes
 :::
 :::
 :::
@@ -57,12 +52,12 @@ Before these motionless forms, the gaze slowly wanders. What seemed to be a ston
      PHOTOGRAPHIE S01
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-1-roche-falaise-trace.jpg"
-alt="Falaise avec trace d'une coulée — Odyssée, Charles Klein">
+<img src="images/c-klein-1-spain-tolede.jpg"
+alt="Tolede - Spain - Charles Klein">
 <div
     class="caption"
-    data-fr="Le socle, substrat de nos possibles"
-    data-en="The ground beneath our possibilities">
+    data-fr=""
+    data-en="">
  </div>
 
 </section>
@@ -71,13 +66,13 @@ alt="Falaise avec trace d'une coulée — Odyssée, Charles Klein">
      PHOTOGRAPHIE S02
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-2-roches-enpilees.jpg"
-alt="Roches empilées — Odyssée, Charles Klein"
+<img src="images/c-klein-2-spain_maison_palmiers.jpg"
+alt="Maison fermée avec palmiers — Spain, Charles Klein"
 >
 <div
     class="caption"
-    data-fr="Le socle, substrat de nos possibles"
-    data-en="The ground beneath our possibilities">
+    data-fr=""
+    data-en="">
  </div>
 </section>
 
@@ -85,13 +80,13 @@ alt="Roches empilées — Odyssée, Charles Klein"
      PHOTOGRAPHIE S03
 ========================= -->
 <section class="photo-page page">
-<img src="images/charles -klein-3-passage-dans-rochers.jpg"
-alt="Roche avec passage — Odyssée, Charles Klein"
+<img src="images/c-klein-3-spain-ruine.jpg"
+alt="Ruine - Spain - Charles Klein"
 >
 <div
     class="caption"
-    data-fr="Le socle, substrat de nos possibles"
-    data-en="The ground beneath our possibilities">
+    data-fr=""
+    data-en="">
  </div>
 </section>
 
@@ -99,53 +94,27 @@ alt="Roche avec passage — Odyssée, Charles Klein"
      PHOTOGRAPHIE S04
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-4-roche-face.jpg"
-alt="Roche de face - Comme un tableau - Odyssée, Charles Klein"
+<img src="images/c-klein-4-spain_immeubles_cheval.jpg"
+alt="Cheval seul devant immeuble - Spain - Charles Klein"
 >
 <div
     class="caption"
-    data-fr="Le socle, substrat de nos possibles"
-    data-en="The ground beneath our possibilities">
+    data-fr=""
+    data-en="">
  </div>
 </section>
-
-<!-- =========================
-     PAGE TEXTE Eau
-========================= -->
-::: {.text-page .page}
-::: {.lang-fr}
-::: {.text-content}
-## Eau
-
-D'abord, là où tout a commencé, l'océan.  
-Et puis, sources lacs et rivières.  
-Avec la pluie.  
-
-:::
-:::
-
-::: {.lang-en}
-::: {.text-content}
-## Water
-
-First, where it all began, the ocean.  
-Then, springs, lakes and rivers.  
-With the rain.  
-:::
-:::
-:::
 
 <!-- =========================
      PHOTOGRAPHIE S05
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-5-eau-nuit_lune.jpg"
-alt="Reflet de lune dans une eau sombre - Odyssée, Charles Klein"
+<img src="images/c-klein-5-spain_immeuble_balcons.jpg"
+alt="Homme seul avec beaucoup de balcons - Spain - Charles Klein"
 >
 <div
     class="caption"
-    data-fr="Eau"
-    data-en="Water">
+    data-fr=""
+    data-en="">
  </div>
 </section>
 
@@ -153,13 +122,13 @@ alt="Reflet de lune dans une eau sombre - Odyssée, Charles Klein"
      PHOTOGRAPHIE S06
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-6-cascade.jpg"
-alt="Eau vive, cascade - Odyssée, Charles Klein"
+<img src="images/c-klein-6-spain-transformateur.jpg"
+alt="Transformateur et serviettes qui sèchent - Spain - Charles Klein"
 >
 <div
     class="caption"
-    data-fr="Eau"
-    data-en="Water">
+    data-fr=""
+    data-en="">
  </div>
 </section>
 
@@ -167,13 +136,13 @@ alt="Eau vive, cascade - Odyssée, Charles Klein"
      PHOTOGRAPHIE S07
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-7-océan-rivage.jpg"
-alt="Eau, océan, rivage, plage - Odyssée, Charles Klein"
+<img src="images/c-klein-7-spain_altamira.jpg"
+alt="Plaque Altamira - Spain - Charles Klein"
 >
 <div
     class="caption"
-    data-fr="Eau"
-    data-en="Water">
+    data-fr=""
+    data-en="">
  </div>
 </section>
 
@@ -181,46 +150,27 @@ alt="Eau, océan, rivage, plage - Odyssée, Charles Klein"
      PHOTOGRAPHIE S08
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-8-rocher-océan.jpg"
-alt="Rocher dans l'océan - Odyssée, Charles Klein"
+<img src="images/c-klein-8-spain-ruelle-seville.jpg"
+alt="Ruelle à Séville - Spain - Charles Klein"
 >
 <div
     class="caption"
-    data-fr="Le rocher dans l'océan"
-    data-en="The rock in the ocean">
+    data-fr=""
+    data-en="">
  </div>
 </section>
-
-<!-- =========================
-     PAGE TEXTE Arbre
-========================= -->
-::: {.text-page .page}
-::: {.lang-fr}
-::: {.text-content}
-## ... Arbre de vie ...
-
-:::
-:::
-
-::: {.lang-en}
-::: {.text-content}
-## ... Tree of life ...
-
-:::
-:::
-:::
 
 <!-- =========================
      PHOTOGRAPHIE S09
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-9-roche-fissure-naissance-vegetal.jpg"
-alt="Naissance - Germination dans la roche - Odyssée, Charles Klein"
+<img src="images/c-klein-9-spain-seville-place-arboree.jpg"
+alt="Ruelle arborée à Séville - Spain - Odyssée, Charles Klein"
 >
 <div
     class="caption"
-    data-fr="Germination dans la roche"
-    data-en="Germination in the rock">
+    data-fr=""
+    data-en="">
  </div>
 </section>
 
@@ -228,13 +178,13 @@ alt="Naissance - Germination dans la roche - Odyssée, Charles Klein"
      PHOTOGRAPHIE S10
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-10-herbes-ciel.jpg"
-alt="L'herbe avant l'arbre - Odyssée, Charles Klein"
+<img src="images/c-klein-10-spain-cour-interieure.jpg"
+alt="Cour intérieure à Séville - Spain - Charles Klein"
 >
 <div
     class="caption"
-    data-fr="L'Herbe avant l'arbre"
-    data-en="Grass before the tree">
+    data-fr=""
+    data-en="">
  </div>
 </section>
 
@@ -242,13 +192,13 @@ alt="L'herbe avant l'arbre - Odyssée, Charles Klein"
      PHOTOGRAPHIE S11
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-11-arbre-seul-ciel.jpg"
-alt="Arbre - Odyssée, Charles Klein"
+<img src="images/c-klein-11-spain-immeuble-regard.jpg"
+alt="Immeuble à Séville - Spain - Charles Klein"
 >
 <div
     class="caption"
-    data-fr="L'arbre"
-    data-en="The tree">
+    data-fr=""
+    data-en="">
  </div>
 </section>
 
@@ -256,13 +206,13 @@ alt="Arbre - Odyssée, Charles Klein"
      PHOTOGRAPHIE S12
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-13-roche-et-arbres.jpg"
-alt="Rocher et arbres - Odyssée, Charles Klein"
+<img src="images/c-klein-12-spain-Edificio La Adriática.jpg"
+alt="Edificio La Adriática à Séville - Spain - Charles Klein"
 >
 <div
     class="caption"
-    data-fr="Arbres et rocher"
-    data-en="Trees and rock">
+    data-fr=""
+    data-en="">
  </div>
 </section>
 
@@ -270,13 +220,13 @@ alt="Rocher et arbres - Odyssée, Charles Klein"
      PHOTOGRAPHIE S13
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-12-forêt.jpg"
-alt="La forêt comme apothéose - Odyssée, Charles Klein"
+<img src="images/c-klein-13-spain-andalouse.jpg"
+alt="Fausse Andalouse - Spain - Charles Klein"
 >
 <div
     class="caption"
-    data-fr="La forêt comme apothéose"
-    data-en="The forest as apotheosis">
+    data-fr=""
+    data-en="">
  </div>
 </section>
 
@@ -284,46 +234,27 @@ alt="La forêt comme apothéose - Odyssée, Charles Klein"
      PHOTOGRAPHIE S14
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-14-arbre-mort.jpg"
-alt="Déclin, mort de l'arbre - Odyssée, Charles Klein"
+<img src="images/c-klein-14-spain-vitrine-kitch.jpg"
+alt="Vitrine à Séville - Spain - Charles Klein"
 >
 <div
     class="caption"
-    data-fr="Retour à la terre"
-    data-en="Return to the earth">
+    data-fr=""
+    data-en="">
  </div>
 </section>
-
-<!-- =========================
-     PAGE TEXTE Croyances
-========================= -->
-::: {.text-page .page}
-::: {.lang-fr}
-::: {.text-content}
-## Coyances ...
-
-:::
-:::
-
-::: {.lang-en}
-::: {.text-content}
-## Beliefs ...
-
-:::
-:::
-:::
 
 <!-- =========================
      PHOTOGRAPHIE S15
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-15-chevaux_gravure_magdalénien.jpg"
-alt="Préhistoire, magdalénien, chevaux - Odyssée, Charles Klein"
+<img src="images/c-klein-15-spain-magnettes-malaga.jpg"
+alt="Magnettes Malaga Picasso - Spain - Charles Klein"
 >
 <div
     class="caption"
-    data-fr="Magdalénien, la roche comme support"
-    data-en="Magdalénien, the rock as a medium">
+    data-fr=""
+    data-en="">
  </div>
 </section>
 
@@ -332,13 +263,13 @@ alt="Préhistoire, magdalénien, chevaux - Odyssée, Charles Klein"
      PHOTOGRAPHIE S16
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-16-dolmen.jpg"
-alt="Dolmen- Celtes - Odyssée, Charles Klein"
+<img src="images/c-klein-16-spain-plan-sur-mur.jpg"
+alt="Plan sur mur - Spain - Charles Klein"
 >
 <div
     class="caption"
-    data-fr="Néolithique, le rocher devient mégalithe"
-    data-en="Néolithique, the rock becomes a megalith">
+    data-fr=""
+    data-en="">
  </div>
 </section>
 
@@ -347,13 +278,13 @@ alt="Dolmen- Celtes - Odyssée, Charles Klein"
      PHOTOGRAPHIE S17
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-17-tombe-arbre.jpg"
-alt="Moyen Age, arbre, stèles granitiques"
+<img src="images/c-klein-17-spain-farmacia.jpg"
+alt="Farmacia - Spain - Charles Klein"
 >
 <div
     class="caption"
-    data-fr="Moyen Age, arbre et stèles granitiques"
-    data-en="Middle Ages, tree and granite steles">
+    data-fr=""
+    data-en="">
  </div>
 </section>
 
@@ -361,45 +292,27 @@ alt="Moyen Age, arbre, stèles granitiques"
      PHOTOGRAPHIE S18
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-18-art-roman.jpg"
-alt="Art roman, Christ et diable"
+<img src="images/c-klein-18-spain-cour-restaurant-seville.jpg"
+alt="Cour de restaurant en soirée à Sévilee - Spain - Charles Klein"
 >
 <div
     class="caption"
-    data-fr="Art roman, Christ et diable dans le grès"
-    data-en="Romanesque art, Christ and devil in sandstone">
+    data-fr=""
+    data-en="">
  </div>
 </section>
 
 <!-- =========================
-     PAGE TEXTE Monolithe
-========================= -->
-::: {.text-page .page}
-::: {.lang-fr}
-::: {.text-content}
-## Le Monolithe
-
-:::
-:::
-
-::: {.lang-en}
-::: {.text-content}
-## The Monolith
-
-:::
-:::
-:::
-<!-- =========================
      PHOTOGRAPHIE S19
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-19-monolithe-montagne.jpg"
-alt="Le monolithe - Montagne - Odyssée, Charles Klein"
+<img src="images/c-klein-19-spain-immeuble-seville.jpg"
+alt="Immeuble à Séville- Spain - Charles Klein"
 >
 <div
     class="caption"
-    data-fr="Le monolithe"
-    data-en="The monolith">
+    data-fr=""
+    data-en="">
  </div>
 </section>
 
@@ -408,58 +321,16 @@ alt="Le monolithe - Montagne - Odyssée, Charles Klein"
      PHOTOGRAPHIE S20
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-20-monolithe-oiseaux.jpg"
-alt="Le monolithe - Oiseaux - Odyssée, Charles Klein"
+<img src="images/c-klein-20-spain-immeuble-st-sebastien.jpg"
+alt="Immeuble à Saint-Sébastien - Spain - Charles Klein"
 >
 <div
     class="caption"
-    data-fr="Le monolithe"
-    data-en="The monolith">
+    data-fr=""
+    data-en="">
  </div>
 </section>
 
-
-<!-- =========================
-     PHOTOGRAPHIE S21
-========================= -->
-<section class="photo-page page">
-<img src="images/c-klein-21-monolithe-arbres-morts.jpg"
-alt="Le monolithe - Arbres morts - Odyssée, Charles Klein"
->
-<div
-    class="caption"
-    data-fr="Le monolithe"
-    data-en="The monolith">
- </div>
-</section>
-
-<!-- =========================
-     PHOTOGRAPHIE S22
-========================= -->
-<section class="photo-page page">
-<img src="images/c-klein-22-monolithe-dolmen-lune.jpg"
-alt="Le monolithe - Dolmen avec lune - Odyssée, Charles Klein"
->
-<div
-    class="caption"
-    data-fr="Le monolithe"
-    data-en="The monolith">
- </div>
-</section>
-
-<!-- =========================
-     PHOTOGRAPHIE S23
-========================= -->
-<section class="photo-page page">
-<img src="images/c-klein-23-monolithe-nuit-lune.jpg"
-alt="Le monolithe - Nuit avec lune - Odyssée, Charles Klein"
->
-<div
-    class="caption"
-    data-fr="Le monolithe"
-    data-en="The monolith">
- </div>
-</section>
 
 <!-- =========================
      PAGE DE FIN
